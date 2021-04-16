@@ -7,5 +7,7 @@ As I said its a naive tool it can just help you to fill up the form once you tak
 # How to use it?
 Use is little bit difficult but not that much! Right click on the screen and open the inspect section of your web-browser.
 Inspect one of the radio button to see what's its id, you don't need to write it down!!
-Switch to console which is right next to your Elements tab (in the inspect window) and paste the relevant (Lab/Theory) code. 
+Switch to console which is right next to your Elements tab (in the inspect window) and paste the relevant (lab.js/theory.js) code in the console.
+And obviously don't forget to hit that enter button!! 
+Chears!!
 
